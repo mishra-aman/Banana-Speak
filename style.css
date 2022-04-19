@@ -1,0 +1,13 @@
+textarea{
+    width: 70%;
+    height: 9vh;
+    display: block;
+    margin: 2rem;
+    padding: 2rem;
+    color: red;
+}
+
+#btn-translate {
+    color: rgb(216, 216, 21);
+    background-color: black;
+}
